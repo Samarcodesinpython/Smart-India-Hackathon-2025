@@ -1,7 +1,7 @@
 
 # Coders_Creed_Smart_India_Hackathon_2025
 
-![Team Logo](<img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/54b40a78-af11-4d0d-bdb9-9e0f47078089" />)
+(<img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/54b40a78-af11-4d0d-bdb9-9e0f47078089" />)
 
 This repository hosts the complete work of our team **Coders Creed** for **Smart India Hackathon 2025**, including:  
 📂 Source code (frontend, backend, ML models, automation)  
