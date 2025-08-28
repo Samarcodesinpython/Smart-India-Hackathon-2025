@@ -19,7 +19,7 @@ This repository hosts the complete work of our team **Coders Creed** for **Smart
 - 👨‍💻 Samar Jamal – AI/ML  
 - 👩‍💻 Daksh Gautam – Developer  
 - 👨‍💻 Devansh Verma – Developer  
-- 👨‍💻 TB – Backend  
+- 👨‍💻 Tushar Badhawan – Backend  
 
 ---
 
