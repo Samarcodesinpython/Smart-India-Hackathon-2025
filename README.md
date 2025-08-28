@@ -1,23 +1,24 @@
 
 # Coders_Creed_Smart_India_Hackathon_2025
 
-![Team Logo](https://via.placeholder.com/200x200.png?text=Coders+Creed+Logo)
+![Team Logo](<img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/54b40a78-af11-4d0d-bdb9-9e0f47078089" />)
 
 This repository hosts the complete work of our team **Coders Creed** for **Smart India Hackathon 2025**, including:  
 📂 Source code (frontend, backend, ML models, automation)  
 📄 Documentation (design, architecture, setup guides)  
-🧪 Tests & workflows for CI/CD  
+🧪 Tests & workflows. 
 🎨 Assets (presentation, demo video, posters)  
 ⚙️ Scripts & setup files for quick deployment  
 
 ---
 
 ## 👥 Team Members
-- 👨‍💻 [Team Leader Name] – Team Leader  
-- 👩‍💻 [Vice Leader Name] – Vice Leader  
-- 👨‍💻 [Developer 1 Name] – Developer  
-- 👩‍💻 [Developer 2 Name] – Developer  
-- 👨‍💻 [Developer 3 Name] – Developer  
+- 👨‍💻 [Harshita Pokhariya] – Team Leader  
+- 👩‍💻 [Bhavya Garg] – Vice Leader  
+- 👨‍💻 [Samar Jamal] – Ai/ML  
+- 👩‍💻 [Daksh Gautam] – Developer  
+- 👨‍💻 [Devansh Verma] – Developer
+- 👨‍💻 [TB] – Backend
 
 ---
 
@@ -27,8 +28,8 @@ This repository hosts the complete work of our team **Coders Creed** for **Smart
 
 | Link | Description |
 |------|-------------|
-| [SIH Official Site](#) | Event homepage |
-| [Problem Statements](#) | View all PS |
+| [SIH Official Site](#https://sih.gov.in/) | Event homepage |
+| [Problem Statements](#https://www.sih.gov.in/sih2025PS) | View all PS |
 | [Schedule](#) | Submission timelines |
 
 ---
@@ -41,7 +42,7 @@ Our team **Coders Creed** is participating with full dedication to innovate and 
 
 ## 🔗 Important Links  
 
-- 🟩 **[View Problem Statements](#)**  
+- 🟩 **[View Problem Statements](#https://www.sih.gov.in/sih2025PS)**  
 - 🟧 **[View Schedule](#)**  
 
 ---
